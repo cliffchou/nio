@@ -60,7 +60,6 @@ public class NIOServer {
 
                 keyIterator.remove();
             }
-
         }
     }
 }
